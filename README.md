@@ -1,0 +1,1 @@
+# hide-cart-category-magento2
